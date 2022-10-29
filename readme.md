@@ -1,2 +1,2 @@
-#Demo
-I am learning git
+# Demo
+I am learning git 
